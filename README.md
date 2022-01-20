@@ -1,5 +1,5 @@
 <h1 align="center">
-# Simple Notes App Using NodeJS
+ Simple Notes App Using NodeJS
 </h1>
 
 
